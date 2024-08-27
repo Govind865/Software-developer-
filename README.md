@@ -1,4 +1,5 @@
-
-This my first Git repository 
-<br>
-Author - Govind Soni
+#include<stdio.h>
+int main (){
+printf (" hello pe ");
+return 0 ;
+}
